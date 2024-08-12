@@ -1,0 +1,29 @@
+/* FancyFooter.css */
+.fancy-footer {
+    background: linear-gradient(135deg, #0c0c0c, #b7d4e2);
+    color: #fff;
+  }
+  
+  .fancy-footer h5 {
+    margin-bottom: 1rem;
+  }
+  
+  .fancy-footer p {
+    font-size: 0.875rem;
+  }
+  
+  .fancy-footer .social-icons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .fancy-footer .social-icons a {
+    color: #d8c9c9;
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+  }
+  
+  .fancy-footer .social-icons a:hover {
+    color: #ddd;
+  }
+  
